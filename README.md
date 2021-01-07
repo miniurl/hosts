@@ -5,7 +5,7 @@ Phishing and Dangerous hosts collected by Miniurl.id
 - hosts.txt: https://raw.githubusercontent.com/miniurl/hosts/main/hosts.txt
 - hosts.json: https://raw.githubusercontent.com/miniurl/hosts/main/hosts.json
 
-Last updated: January 7th 2020
+Last updated: January 7th 2021
 
 Unique domain: 50
 
