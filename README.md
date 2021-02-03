@@ -3,7 +3,6 @@ Phishing and Dangerous hosts collected by Miniurl.id
 
 - hosts: https://raw.githubusercontent.com/miniurl/hosts/main/hosts
 - hosts (using 0.0.0.0): https://raw.githubusercontent.com/miniurl/hosts/main/0.0.0.0/hosts
-- hosts.txt: https://raw.githubusercontent.com/miniurl/hosts/main/hosts.txt
 - hosts.json: https://raw.githubusercontent.com/miniurl/hosts/main/hosts.json
 
 Last updated: January 7th 2021
