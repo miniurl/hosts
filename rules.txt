@@ -1,8 +1,9 @@
-! Title: miniurl/hosts
+! Title: miniurl/hosts, Phishing and Dangerous hosts collected by Miniurl.id
 ! Description: Phishing and Dangerous hosts collected by Miniurl.id
 ! Homepage: https://github.com/miniurl/hosts
 ! License: MIT
 ! Unique domain: 50
+! Website reputation checker: https://www.urlvoid.com/
 ! Contact: c93c81b9-b581-4651-89fc-a416fd69558e [at] anonaddy.me
 
 ||adult-dating-portal.com^
